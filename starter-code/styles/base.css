@@ -1,9 +1,9 @@
 /* TODO: DONE -- Add a rule for images, so they never exceed their container's width. */
 
-/*img{
+img{
   max-width: 100%;
 
-}*/
+}
 
 body {
   line-height: 1.5;
