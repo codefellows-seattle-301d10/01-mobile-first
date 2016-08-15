@@ -69,6 +69,6 @@
            for a larger screen.
 */
 
-@media query {
+@media only screen and {
 
 }
