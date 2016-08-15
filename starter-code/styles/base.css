@@ -1,4 +1,4 @@
-/* TODO: Add a rule for images, so they never exceed their container's width. */
+ /*TODO:DONE - Add a rule for images, so they never exceed their container's width. */
 
 
 
@@ -42,4 +42,8 @@ a:hover, a:focus {
 
 a:visited {
   color: #AAA;
+}
+
+img {
+  max-width: 100%;
 }
