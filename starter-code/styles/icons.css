@@ -40,7 +40,6 @@
 }
 .icon-menu::before {
 	content: "\e902";
-	outline: dotted 5px orange;
 }
 .icon-link::before {
 	content: "\e903";
